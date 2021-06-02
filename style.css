@@ -1398,6 +1398,7 @@ NewsLetter
 .newsletter{
     padding: 6rem 0;
     border-top: 1px solid var(--primaryColor);
+    margin-bottom: 2rem;
 }
 
 .newsletter__content{
